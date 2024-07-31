@@ -12,18 +12,18 @@ class Shape{
     nameShape(){
         console.log("shape added")
     }
-    colorShape(){
-        this.shapeColor = this.shapeColor;
-        console.log("color added")
-    }
-    spellText(){
-        this.logoText = this.logoText;
-        console.log("text added")
-    }
-    colorText(){
-        this.logoColor = this.logoColor
-        console.log("text color added")
-    }
+    // colorShape(){
+    //     this.shapeColor = this.shapeColor;
+    //     console.log("color added")
+    // }
+    // spellText(){
+    //     this.logoText = this.logoText;
+    //     console.log("text added")
+    // }
+    // colorText(){
+    //     this.logoColor = this.logoColor
+    //     console.log("text color added")
+    // }
 
 }
 
