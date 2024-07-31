@@ -8,23 +8,6 @@ class Shape{
         this.logoText = logoText;
     }
 
-    // Functions used to ship constructor variables to JEST test.
-    nameShape(){
-        console.log("shape added")
-    }
-    // colorShape(){
-    //     this.shapeColor = this.shapeColor;
-    //     console.log("color added")
-    // }
-    // spellText(){
-    //     this.logoText = this.logoText;
-    //     console.log("text added")
-    // }
-    // colorText(){
-    //     this.logoColor = this.logoColor
-    //     console.log("text color added")
-    // }
-
 }
 
 // Export variable to ship Shape variable array 
